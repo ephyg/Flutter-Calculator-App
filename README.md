@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<div style="display:flex; gap:50px; width:300px">
-<img src="./assets/img1.jpg">
-<img src="./assets/img2.jpg">
+<div style="display:flex; flex-direction:row; gap:50px">
+    <img src="./assets/img1.jpg" style="width:300px;">
+    <img src="./assets/img2.jpg" style="width:300px;">
 </div>
